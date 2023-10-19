@@ -7,3 +7,4 @@ int main()
 	gets(s);
 	printf("length of string is: %d",strlen(s));
 }
+
